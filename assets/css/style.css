@@ -12,7 +12,7 @@
 
 body {
   width: 100%;
-  height:95vh;
+  height:60vh;
   background-color: black;
   color:white;
 }
@@ -80,7 +80,7 @@ header nav ul li a:nth-of-type(1) {
 
 /* ------------MAIN--------------- */
 main {
-  height: 80vh;
+  height: 60vh;
   margin-left: 8rem;
 }
 
@@ -110,7 +110,7 @@ main section img {
   top:10%;
   right:0;
   width:20%;
-  height: 60%;
+  height: 80%;
   padding-left:2em;
 }
 main section img:nth-of-type(2){
@@ -142,7 +142,7 @@ right: 40%;
 /* ------------MAIN--------------- */
 footer{
   height:10vh;
-  background-color: rgb(119, 90, 90);
+  background-color: rgb(70, 45, 45);
 }
 
 footer nav{
@@ -163,6 +163,9 @@ footer nav ul li{
 .fa-chevron-right {
   height: 40px;
   width: 40px;
+}
+footer section div {
+
 }
 
 footer a{
